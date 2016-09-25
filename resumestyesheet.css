@@ -1,22 +1,26 @@
 body {
-	background-color: white;
+	background-color: gray;
 }
 
+/*Style for the Name in the middle*/
 h1 {
 	font-weight: bold;
 	font-size: 24px;
 	text-align: center;
 }
 
+/*Style for headings*/
 h2 {
 	font-weight: bold;
 	font-size: 16px;
 }
 
+/*Style for normal text*/
 h3 {
 	font-size: 14px;
 }
 
+/*Style for Sub-headings*/
 h4 {
 	font-size: 14px;
 	font-style: italic;
