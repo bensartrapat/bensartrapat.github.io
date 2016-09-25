@@ -1,0 +1,23 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 24px;
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h3 {
+	font-size: 14px;
+}
+
+h4 {
+	font-size: 14px;
+	font-style: italic;
+}
